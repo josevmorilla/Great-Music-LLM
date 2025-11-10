@@ -2,7 +2,7 @@
 
 > **BC Digital Frontend Coding Challenge Submission**
 
-A sophisticated, bilingual (English/French) landing page for Great Music LLM, a premium orchestra business based in Montreal, Quebec.
+A sophisticated, bilingual (English/French) landing page for Great Music LLM, a premium orchestra business.
 
 ## 🎼 Project Overview
 
@@ -11,14 +11,15 @@ This React + Vite application showcases a high-end orchestra website featuring:
 - **Bilingual Support**: Complete English/French translation system
 - **Elegant Design**: Classical music-themed UI with gold accents (#b89f6d)
 - **Responsive Layout**: Mobile-first design with smooth animations
-- **Montreal Focus**: Quebec-specific content and cultural references
+
+## 🔗 Live Demo & Repository
+
+**🌐 Live Demo:** [https://great-music-llm-jvm.vercel.app](https://great-music-llm-jvm.vercel.app)  
 
 ## 🌟 Key Features
 
 ### 🇨🇦 Bilingual Experience
 - **Language Toggle**: Seamless English ↔ French switching
-- **Montreal Context**: Quebec venues, Montreal address, 514 area code
-- **Cultural Integration**: References to Place des Arts, Maison Symphonique
 
 ### 🎨 Design Excellence
 - **Premium Aesthetics**: Elegant typography (Playfair Display + Inter)
@@ -70,21 +71,6 @@ src/
 └── assets/             # Static assets
 ```
 
-## 🌐 Bilingual Content
-
-The website supports complete translation between English and French:
-
-- **Navigation**: Home/Accueil, About/À Propos, Services/Services
-- **Content**: All text, form labels, and user interface elements
-- **Business Info**: Montreal address, Quebec phone numbers, cultural references
-
-## 🎯 BC Digital Challenge Requirements
-
-✅ **Design & Visual Appeal**: Elegant, high-end classical music theme  
-✅ **Creativity**: Unique bilingual approach with Montreal cultural integration  
-✅ **Responsiveness**: Mobile-first design with smooth responsive breakpoints  
-✅ **Clarity of Concept**: Clear orchestra business identity and services  
-
 ## 🛠️ Technologies Used
 
 - **React 19** - Modern functional components with hooks
@@ -112,16 +98,7 @@ The website supports complete translation between English and French:
 --body-font: 'Inter', sans-serif;
 ```
 
-## 🚀 Deployment
-
-This project is ready for deployment on:
-- **Vercel** (recommended for React apps)
-- **Netlify** 
-- **GitHub Pages**
-- Any static hosting service
-
 ## 📧 Contact
 
 **Submission for**: BC Digital Frontend Developer Position  
 **Challenge**: Great Music LLM Orchestra Website  
-**Focus**: Bilingual Montreal market, premium design, responsive excellence
